@@ -1,0 +1,9 @@
+<config>
+<swf width="760" height="550" scaleMode="showAll" bgColor="11A8BE" alignMode="" preloaderSize="268847" />
+<preloader percentTextColor="16777215" bgColor="11A8BE"  size="6552" url="res/default.swf" />
+<dataLoadControl size="17594" url="res/datacontrol.swf" />
+<player size="56835" url="res/player.swf" />
+<playData size="1374" url="xml.php" />
+<playMode playType="manualPlay" endType="showReplayButton" />
+<temp3D playBarVisible="true" controlBarVisible="true" />
+</config>
